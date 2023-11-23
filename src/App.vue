@@ -14,7 +14,6 @@
 </script>
 
 <template>
-  <h1>Titolo</h1>
   <AppHeader />
   <ProductList />
   <AppFooter />
