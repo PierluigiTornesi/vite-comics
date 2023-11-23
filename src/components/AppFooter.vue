@@ -5,9 +5,12 @@
 </script>
 
 <template>
-  <h2>footer</h2> 
+  <footer></footer>
 </template>
 
 <style  scoped lang="scss">
-
+footer{
+    height: calc(100vh - 470px);
+    background-color: lightblue;
+}
 </style>

@@ -68,7 +68,7 @@
 @use "../style/partials/mixin" as *;
 @use "../style/partials/variables" as *;
     header{
-        @include flexHeader();
+        @include flex();
         height: 150px;
         padding: 1rem;
         
